@@ -1,2 +1,4 @@
 language: python
+install:
+  - pipenv install
 script: true
